@@ -1,0 +1,54 @@
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\Administracion Hotelera.exe.config
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\Administracion Hotelera.exe
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\Administracion Hotelera.pdb
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\Google.Protobuf.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\MySql.Data.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Buffers.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.IO.Pipelines.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Memory.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Text.Json.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.ValueTuple.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\ZstdSharp.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\Google.Protobuf.pdb
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\Google.Protobuf.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\MySql.Data.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Buffers.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.IO.Pipelines.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Memory.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Text.Json.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Debug\System.ValueTuple.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion Hotelera.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion_Hotelera.view.FormBooking.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion_Hotelera.view.FormEditHotel.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion_Hotelera.view.FormHome.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion_Hotelera.view.FormLogin.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion_Hotelera.Properties.Resources.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion_Hotelera.view.FormManagement.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion_Hotelera.view.FormNewBooking.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion_Hotelera.view.FormViewBooking.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion Hotelera.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion Hotelera.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion Hotelera.csproj.CopyComplete
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion Hotelera.exe
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Debug\Administracion Hotelera.pdb

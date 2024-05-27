@@ -1,0 +1,58 @@
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Administracion Hotelera.exe.config
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Administracion Hotelera.exe.manifest
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Administracion Hotelera.application
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Administracion Hotelera.exe
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Administracion Hotelera.pdb
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Google.Protobuf.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\MySql.Data.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Buffers.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.IO.Pipelines.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Memory.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Numerics.Vectors.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Text.Json.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.ValueTuple.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\ZstdSharp.dll
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Google.Protobuf.pdb
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Google.Protobuf.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\MySql.Data.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Buffers.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.IO.Pipelines.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Memory.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Numerics.Vectors.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Text.Json.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\bin\Release\System.ValueTuple.xml
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion Hotelera.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion_Hotelera.view.FormBooking.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion_Hotelera.view.FormEditHotel.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion_Hotelera.view.FormHome.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion_Hotelera.view.FormLogin.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion_Hotelera.Properties.Resources.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion_Hotelera.view.FormManagement.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion_Hotelera.view.FormNewBooking.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion_Hotelera.view.FormViewBooking.resources
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion Hotelera.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion Hotelera.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion Hotelera.exe.manifest
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion Hotelera.application
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion Hotelera.csproj.CopyComplete
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion Hotelera.exe
+C:\Users\julia\OneDrive\Documents\Projects\Administracion Hotelera\obj\Release\Administracion Hotelera.pdb
